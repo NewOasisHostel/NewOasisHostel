@@ -1,4 +1,4 @@
-### New Oasis Hostel 👋
+### New Oasis Hostel 
 
 <!--
 **NewOasisHostel/NewOasisHostel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
